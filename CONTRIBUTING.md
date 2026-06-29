@@ -29,11 +29,9 @@ Free and paid resources are both welcome, but paid products should provide clear
 
 ## Writing guidelines
 
-- Keep descriptions concise, factual, and free of marketing language.
-- Start descriptions with a capital letter and end them with a period.
+- Keep descriptions concise and factual.
 - Use the resource's official name and canonical URL.
 - Avoid tracking parameters, referral links, and URL shorteners.
-- Submit one resource per pull request when possible.
 - Check spelling, grammar, and Markdown formatting before submitting.
 
 ## Pull requests
